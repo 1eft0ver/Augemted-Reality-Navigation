@@ -1,5 +1,10 @@
-# GPS2
-School Project Version 2
+# AR Navi
+This is a graduation project of CSE 107th, NSYSU,
+developed by 蔡宜勲(1eft0ver), 林鴻丞(jimmylin1017) and 劉昀鑫.
+
+# 2017/11/22
+Graduation project exhibition.
+Final version project uploaded.
 
 # 2017/10/31
 
