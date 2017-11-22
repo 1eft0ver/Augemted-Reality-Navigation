@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8eb4174b0f087e94eb57f642042360f8
+timeCreated: 1503564815
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - labelPrefab: {fileID: 1349962638266842, guid: 9800539d2ad68344084bdc3332f0af3a,
+      type: 2}
+  - CompassText: {instanceID: 0}
+  - DistanceText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
